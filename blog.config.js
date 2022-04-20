@@ -1,5 +1,5 @@
 const BLOG = {
-  title: "华丽的下个月",
+  title: "下个月",
   author: "Lignin",
   email: "linyulin0301@gmail.com",
   link: "https://nobelium.vercel.app",
