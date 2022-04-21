@@ -1,6 +1,6 @@
 const BLOG = {
   title: "下个月",
-  author: "Lignin",
+  author: "Lingin",
   email: "linyulin0301@gmail.com",
   link: "https://nobelium.vercel.app",
   description: "最是人间留不住，朱颜辞镜花辞树。",
